@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "author": "JavascriptU sdteam@javascriptu.org",
+  "description": "Hello World Express Static Server",
+  "bin": {
+    "http-server": "./bin/server"
+  },
+  "scripts": {
+    "start": "bin/server.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.4"
+  },
+  "name": "Static Server Implementation For JavascriptU"
+}
